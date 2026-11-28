@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portafolio
 
 Proyecto base en React configurado con Vite.
@@ -28,3 +29,7 @@ npm install
 npm run dev
 npm run build
 ```
+=======
+# jorgebedolla.github.io
+Portafolio presentation
+>>>>>>> cec4a891ba163f64b46ccc4b5aec61ac1cd32757
